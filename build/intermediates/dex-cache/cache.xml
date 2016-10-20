@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_a64ad0ccc4efed0eea51beab9a32ebec6b626d1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2ee70650a81f0a205f1cfb2e4cd5247ac9feb340/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_c499a35c3d4b2ebcfda49adafd6d76b2107245de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0a37fdc05f81f5407fab3a67b230f26f582f5bb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0f1cdef6fbe8a7be66fcf768ffd9e5b54743ef49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_31c46245e6d391c81f71e54ec6b434ec4ba184b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_137c70e2a1abc57b471e536fdeacc0d25257c2c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c2d079b7c58b7fd87aac2c50fe91555fd6674d50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ee439656dabd226d12723b69bd88ec14b92aa6cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3a78a6669ee421eb827ab213536f91262db60268">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0a8f49bacfa0abfc83961ab1c7acbd97c8ff7916/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_395b15343bfc4614d5a90b3f860e7e2351bf176b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0828049625b12da3af42aa0a6b109c7e1607fab0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_fcaa1e48a3800e1bd5e27c11d900d58b2c78c13d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_cd5ebafd71c06ceda20e62a3a860c77af97733c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9facefbbb23fc8e212d75d74817a8d8d4bfbe3b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4b0186abbad3e2b86a988a8082401626a5f15f1">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ca2dd3a8f188608041cb5ee5f3c9e20fd13a2655/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_42c87e69522823c8316b9f7cbf1e9e6eb158078a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_b2ce67963a580c471c9def88d420a8c1455253b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Zach/Desktop/littlezachaca/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_ed847237022ec8980787bbd137e21cf7cae30bc3/classes.dex" />
+    </item>
+
+</items>
